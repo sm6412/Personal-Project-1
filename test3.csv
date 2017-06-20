@@ -1,0 +1,16 @@
+tree_id,block_id,created_at,tree_dbh,stump_diam,curb_loc,status,health,spc_latin,spc_common,steward,guards,sidewalk,user_type,problems,root_stone,root_grate,root_other,trunk_wire,trnk_light,trnk_other,brch_light,brch_shoe,brch_other,address,zipcode,zip_city,cb_num,borocode,boroname,cncldist,st_assem,st_senate,nta,nta_name,boro_ct,state,latitude,longitude,x_sp,y_sp
+196089,,,29,,,Alive,Good,,silver maple,,,,,,,,,,,,,,,,11415,,,,Queens,,,,,,,,,,1032028.006,195826.6005
+405574,,,20,,,Alive,Good,,pin oak,,,,,,,,,,,,,,,,10312,,,,Staten Island,,,,,,,,,,929749.21,136775.218
+544967,,,2,,,Alive,Good,,pine oak,,,,,,,,,,,,,,,,11237,,,,Brooklyn,,,,,,,,,,1003882.617,196089.7549
+563068,,,23,,,Alive,Good,,red maple,,,,,,,,,,,,,,,,11429,,,,Queens,,,,,,,,,,1054036.569,196089.8972
+654570,,,15,,,Alive,Good,,pear,,,,,,,,,,,,,,,,11432,,,,Queens,,,,,,,,,,1042919.927,201520.3375
+714382,,,8,,,Alive,Good,,Callery pear,,,,,,,,,,,,,,,,11385,,,,Queens,,,,,,,,,,1016108.128,196089.7437
+721982,,,5,,,Alive,Good,,silver birch,,,,,,,,,,,,,,,,11433,,,,Queens,,,,,,,,,,1041837.772,196089.6883
+63659,,,0,,,Stump,,,,,,,,,,,,,,,,,,,11385,,,,Queens,,,,,,,,,,1023909.218,196089.6246
+125968,,,17,,,Alive,Good,,paper birch,,,,,,,,,,,,,,,,11206,,,,Brooklyn,,,,,,,,,,999597.5359,196089.9297
+105971,,,20,,,Alive,Good,,red maple,,,,,,,,,,,,,,,,11385,,,,Queens,,,,,,,,,,1013901.515,196089.2243
+105972,,,5,,,Alive,Good,,American linden,,,,,,,,,,,,,,,,11211,,,,Bronx,,,,,,,,,,995320.8702,196089.5393
+105973,,,5,,,Alive,Good,,silver linden,,,,,,,,,,,,,,,,11211,,,,Brooklyn,,,,,,,,,,995320.8702,196089.5393
+105974,,,5,,,Alive,Good,,paper birch,,,,,,,,,,,,,,,,11211,,,,Staten Island,,,,,,,,,,995320.8702,196089.5393
+105975,,,5,,,Alive,Good,,American linden,,,,,,,,,,,,,,,,11211,,,,Staten Island,,,,,,,,,,995320.8702,196089.5393
+105976,,,5,,,Alive,Good,,silver linden,,,,,,,,,,,,,,,,11211,,,,Brooklyn,,,,,,,,,,995320.8702,196089.5393
